@@ -1,8 +1,8 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <h1>{{ aluno }}</h1>
-    <h2>Links Disponiveis</h2>
+    <h2>{{ aluno }}</h2>
+    <h2>Links úteis</h2>
     <ul>
       <li>
         <a
@@ -89,8 +89,8 @@ export default {
   name: 'Olá mundo',
   data () {
     return {
-      msg: 'Utilizando o Vue-js',
-      aluno: 'Olá Mundo'
+      msg: 'Bem-vindo esta é a pagina Inicial do Projeto',
+      aluno: 'Como Usar, instalar, configurar!'
     }
   }
 }
