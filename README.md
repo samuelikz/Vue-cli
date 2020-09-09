@@ -1,8 +1,17 @@
-# vuejs
+### Guia de Instalação 
+	Conhecendo o vue-cli
 
-> vuejs yarn
+#### instalaçao do vue-cli
 
-## Build Setup
+	yarn global add @vue-cli
+
+ou
+
+	npm install -g @vue-cli
+
+
+
+### Build Setup
 
 ``` bash
 # install dependencies
